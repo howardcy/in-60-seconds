@@ -51,7 +51,7 @@ Snap Layouts let you create custom slide designs directly within your markdown.
 [Click here to jump straight into the interactive feature guides in the GitPitch Docs @fa[external-link]](https://gitpitch.com/docs/getting-started/tutorial/)
 @snapend
 
----lang=python&color=#1E1F21&title=Python snipper
+---?lang=python&color=#1E1F21&title=Python snipper
 ```python
 age = input("What is your age? ")
 print("You are", age, "years old")
