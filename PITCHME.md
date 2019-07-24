@@ -55,3 +55,4 @@ Snap Layouts let you create custom slide designs directly within your markdown.
 ```
 age = input("What is your age? ")
 print("You are", age, "years old")
+```
